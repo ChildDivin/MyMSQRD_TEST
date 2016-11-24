@@ -1,0 +1,10 @@
+ofxFaceTracker
+ofxAssimpModelLoader
+ofxCv
+ofxGui
+ofxNetwork
+ofxOpenCv
+ofxOsc
+ofxSvg
+ofxThreadedImageLoader
+ofxXmlSettings
